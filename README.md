@@ -1,6 +1,6 @@
 # 🤖 CopilotBot: Your AI Coding Assistant 💻
 ----------------------------------------------------------
-### Research Report: [github-copilot.pdf](#)
+### Research Report: [github-copilot.pdf](https://raw.githubusercontent.com/goushaa/github-copilot-chatbot/main/github-copilot.pdf)
 ----------------------------------------------------------
 
 ## What is CopilotBot?
